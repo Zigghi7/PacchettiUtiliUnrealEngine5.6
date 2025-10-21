@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PacchettiUtili",
+			"Path": "..\\Source\\PacchettiUtili.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PacchettiUtiliEditor",
+			"Path": "..\\Source\\PacchettiUtiliEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

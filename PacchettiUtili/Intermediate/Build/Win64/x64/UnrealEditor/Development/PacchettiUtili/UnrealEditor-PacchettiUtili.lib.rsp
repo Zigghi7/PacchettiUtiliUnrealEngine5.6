@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PacchettiUtili.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Repo/Unreal/PacchettiUtiliUnrealEngine5.6/PacchettiUtili/Intermediate/Build/Win64/x64/PacchettiUtiliEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/Repo/Unreal/PacchettiUtiliUnrealEngine5.6/PacchettiUtili/Intermediate/Build/Win64/x64/UnrealEditor/Development/PacchettiUtili/PacchettiUtili.cpp.obj"
+"D:/Repo/Unreal/PacchettiUtiliUnrealEngine5.6/PacchettiUtili/Intermediate/Build/Win64/x64/UnrealEditor/Development/PacchettiUtili/PerModuleInline.gen.cpp.obj"
+"D:/Repo/Unreal/PacchettiUtiliUnrealEngine5.6/PacchettiUtili/Intermediate/Build/Win64/x64/UnrealEditor/Development/PacchettiUtili/Default.rc2.res"
+/OUT:"D:/Repo/Unreal/PacchettiUtiliUnrealEngine5.6/PacchettiUtili/Intermediate/Build/Win64/x64/UnrealEditor/Development/PacchettiUtili/UnrealEditor-PacchettiUtili.lib"

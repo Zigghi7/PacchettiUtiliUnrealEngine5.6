@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Repo\\Unreal\\PacchettiUtiliUnrealEngine5.6\\PacchettiUtili\\Source\\PacchettiUtili\\PacchettiUtili.Build.cs",
+		"D:\\Repo\\Unreal\\PacchettiUtiliUnrealEngine5.6\\PacchettiUtili\\Source\\PacchettiUtili.Target.cs",
+		"D:\\Repo\\Unreal\\PacchettiUtiliUnrealEngine5.6\\PacchettiUtili\\Source\\PacchettiUtiliEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

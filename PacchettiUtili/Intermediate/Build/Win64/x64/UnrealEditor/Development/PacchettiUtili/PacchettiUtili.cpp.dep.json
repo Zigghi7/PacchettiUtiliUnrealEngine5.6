@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\repo\\unreal\\pacchettiutiliunrealengine5.6\\pacchettiutili\\source\\pacchettiutili\\pacchettiutili.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repo\\unreal\\pacchettiutiliunrealengine5.6\\pacchettiutili\\intermediate\\build\\win64\\x64\\pacchettiutilieditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\repo\\unreal\\pacchettiutiliunrealengine5.6\\pacchettiutili\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pacchettiutili\\definitions.pacchettiutili.h",
+            "d:\\repo\\unreal\\pacchettiutiliunrealengine5.6\\pacchettiutili\\source\\pacchettiutili\\pacchettiutili.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
